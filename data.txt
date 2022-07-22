@@ -1,0 +1,14 @@
+¿Cómo se dice amarillo en inglés?
+R: Yellow
+
+¿Cómo se llama la estructura para almacenar varios datos?
+R: Arreglo
+
+¿Qué palabra reservada se usa para mostrar mensajes en consola en Ruby?
+R: puts
+
+¿Qué método de la clase String permite invertir una cadena de texto?
+R: reverse
+
+¿Cuál es la extensión de los archivos Ruby?
+R: .rb
